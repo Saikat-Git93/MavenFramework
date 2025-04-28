@@ -31,5 +31,10 @@
 			<version>7.8.0</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>MyProject</groupId>
+			<artifactId>Project1</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 </project>
