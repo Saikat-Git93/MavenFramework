@@ -13,6 +13,6 @@ import io.cucumber.junit.CucumberOptions;
 
 )
 
-public class RunnerClasss {
+public class RunnerClass {
 
 }
